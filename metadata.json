@@ -1,0 +1,6 @@
+{
+  "name": "LazyTask AI",
+  "description": "Mobile-first task planner for students to turn overwhelming assignments into small, realistic steps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
